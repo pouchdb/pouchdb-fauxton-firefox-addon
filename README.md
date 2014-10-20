@@ -4,6 +4,10 @@ pouchdb-fauxton-firefox-addon
 A Firefox (jetpack) add-on that allows you to inspect all PouchDB
 databases on the current web page. It only works in Firefox 34 or later.
 
+
+![pouchdb-fauxton-firefox-addon in action](http://s10.postimg.org/7lyf3r8p5/firefox_pouchdb_fauxton.png)
+![pouchdb-fauxton-firefox-addon error example](http://s1.postimg.org/u5nf6djhr/firefox_nopouchdb.png)
+
 Internals
 ---------
 
