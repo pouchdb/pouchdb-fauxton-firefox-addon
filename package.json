@@ -5,6 +5,6 @@
   "description": "Inspect PouchDB databases from the developer tools.",
   "author": "Marten de Vries",
   "license": "Apache-2.0",
-  "version": "0.1",
+  "version": "0.1.1",
   "icon": "data/icon-big.png"
 }
