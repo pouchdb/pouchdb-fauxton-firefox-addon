@@ -11,7 +11,7 @@ databases on the current web page. It only works in Firefox 34 or later.
 Demo
 ----
 
-http://marten-de-vries.nl/files/pouchdb-fauxton.xpi
+https://ma.rtendevri.es/files/pouchdb-fauxton.xpi
 
 Internals
 ---------
