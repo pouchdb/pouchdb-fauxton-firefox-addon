@@ -1,6 +1,8 @@
 pouchdb-fauxton-firefox-addon
 =============================
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/pouchdb/pouchdb-fauxton-firefox-addon.svg)](https://greenkeeper.io/)
+
 A Firefox (jetpack) add-on that allows you to inspect all PouchDB
 databases on the current web page. It only works in Firefox 34 or later.
 
